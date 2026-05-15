@@ -1,0 +1,27 @@
+# server (Backend) commands
+Create server folder:
+mkdir server
+
+Open terminal inside server folder:
+npm init -y
+
+Install Backend Packages
+npm install express mongoose cors dotenv bcryptjs jsonwebtoken multer
+
+Create MongoDB Database
+Go to:
+MongoDB Atlas(https://www.mongodb.com/cloud/atlas/register)
+
+Run Backend
+Inside  server terminal:
+node server.js
+
+You should see:
+MongoDB Connected
+Server running on port 5000
+
+Install packages:
+npm install bcryptjs jsonwebtoken
+
+Test Backend 
+Using Thunder Client/Postman
