@@ -30,6 +30,4 @@ Install Multer
 Inside server folder run:
 npm install multer
 
-Install Gemini Package
-Inside server folder:
-npm install @google/generative-ai
+
