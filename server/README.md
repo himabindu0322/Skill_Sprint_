@@ -1,11 +1,10 @@
 # server (backend) Folder structure
 
-AI PROJECT/
+PROJECT/
 
 └── server/
 
 ├── controllers/
-│   ├── aiController.js,
 │   ├── authController.js,
 │   └── resumeController.js.
 
@@ -20,7 +19,6 @@ AI PROJECT/
 
 ├── routes/
 
-│   ├── aiRoutes.js,
 │   ├── authRoutes.js,
 │   └── resumeRoutes.js.
 
